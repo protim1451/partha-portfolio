@@ -4,9 +4,21 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  daisyui: {
+    themes: [
+      {
+        portfoliotheme: {
+          "base-100": "#ECF0F3",
+        }
+      }
+    ]
+  },
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('daisyui'),
+    //require('tailwindcss-textshadow'),
+  ],
 }
 
