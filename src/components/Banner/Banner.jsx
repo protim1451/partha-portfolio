@@ -78,9 +78,6 @@ const Banner = () => {
                                     <span className="font-semibold">MERN</span> stack developer at government in-house development using Node, Express, MongoDB and React.
                                 </li>
                                 <li className="mt-4">
-                                    At my previous organization, worked in API team for flight, hotel and car rental booking system <span className="text-blue-600">(https://welltravel.welltravel.com)</span> using  <span className="font-semibold">Rails,</span> RSpec, PostgreSQL. With the culture of writing<span className="font-semibold"> test code and mandatory PR review</span>, here I was solely responsible for integrating car rental system besides others.
-                                </li>
-                                <li className="mt-4">
                                     Experienced in SDLC as well as requirement analysis, terms of reference, UAT, supporting 24/7 on-site or remote as per SLA..
                                 </li>
                             </ul>
